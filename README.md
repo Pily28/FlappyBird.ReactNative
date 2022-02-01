@@ -7,7 +7,6 @@ Flappy game is a game where this one has to keep jumping , while this one is jum
 Programming Languages
 
 <ul>
-<li>Java Script</li>
 <li>JSX React Native</li>
 
 </ul>
